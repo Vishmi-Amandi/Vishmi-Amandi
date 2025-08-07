@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vishmi Amandi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="center">Hello, I'm Vishmi Amandi</h1>
+<h3 align="center">A passionate IT student from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishmi-amandi&label=Profile%20views&color=0e75b6&style=flat" alt="vishmi-amandi" /> </p>
 
