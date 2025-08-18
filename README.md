@@ -1,7 +1,10 @@
-<h1 align="center">Hello, I'm Vishmi Amandi</h1>
-<h3 align="center">A passionate IT student from Sri Lanka</h3>
+<h1 align="center">---Hello, I'm Vishmi Amandi---</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishmi-amandi&label=Profile%20views&color=0e75b6&style=flat" alt="vishmi-amandi" /> </p>
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+</div>
+
+<h3 align="center">A passionate IT student from Sri Lanka</h3>
 
 ---
 
@@ -11,9 +14,7 @@
 
 - 📫 How to reach me **vishmiawijesooriya@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
 ### 👨‍💻 Programming and Markup Languages
 
