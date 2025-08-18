@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **vishmiawijesooriya@gmail.com**
+- 📫 How to reach me **vishwijesooriya@gmail.com**
 
 ---
 
