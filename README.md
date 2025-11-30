@@ -1,7 +1,7 @@
 <h1 align="center">---Hello, I'm Vishmi Amandi---</h1>
 
 <div align="center">
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+<img alt="Hola" height="70px" width="70px" align="center" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif"></img><br>
 </div>
 
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
